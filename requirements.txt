@@ -1,0 +1,5 @@
+pymupdf
+langchain-text-splitters
+sentence-transformers
+weaviate-client>=4
+groq

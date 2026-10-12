@@ -1,0 +1,11 @@
+# klucze i konfiguracja lokalna
+.env
+
+# dokumenty uczelniane (pliki PDF nie są częścią repozytorium)
+dokumenty/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
